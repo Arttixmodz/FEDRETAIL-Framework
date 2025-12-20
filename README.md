@@ -9,8 +9,6 @@
 
 > **An industry-grade, research-driven framework for privacy-preserving centralized, horizontal, and vertical federated learning in retail and e-commerce systems.**
 
----
-
 ## 📌 Overview
 
 **FEDRETAIL (FEDerated REtail daTA analysis and Learning)** is a **modular, reproducible, and industry-ready federated learning framework** designed to enable **collaborative retail analytics without sharing raw data**.
